@@ -1,7 +1,5 @@
-# Machine-Learning-House-Price-Prediction-System
+# Machine-Learning-House-Price-Prediction-System/ CALIFORNIA
 Machine Learning project that predicts house prices using property features and regression techniques.
-
-# California House Price Prediction
 
 ## 📌 Overview
 
